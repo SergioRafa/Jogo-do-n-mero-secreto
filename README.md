@@ -1,7 +1,7 @@
 
-### Exemplo de README.md Melhorado
 
-```markdown
+
+
 # 👋 Olá, sou Sérgio de Oliveira Rafael
 
 ## Sobre Mim
